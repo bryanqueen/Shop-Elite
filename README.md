@@ -1,4 +1,4 @@
-![title](Images/ShopElite Logo.png)
+![title](Images/ShopEliteLogo.png)
 # ShopElite
 
 ShopElite is an engine behind a sophisticated e-commerce platform, handling user accounts, product listings, shopping carts, payments, and orders.
